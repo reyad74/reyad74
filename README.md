@@ -25,7 +25,7 @@
 <a href="https://www.youtube.com/c/r flex360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="r flex360" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdreyadh749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdreyadh749" height="30" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Md-Reyad" target="blank"><img align="center" src="https://perso.uclouvain.be/gian-marco.rignanese/images/researchgate.png" alt="mdreyadh749" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Md-Reyad" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="mdreyadh749" height="30" width="40" /></a>
+<a href="https://medium.com/@reyad74" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="mdreyadh749" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
